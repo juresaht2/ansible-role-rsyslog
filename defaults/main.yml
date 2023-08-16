@@ -97,3 +97,6 @@ rsyslog_omit_local_logging: yes
 
 # Allow using the traditional file format.
 rsyslog_traditional_file_format: yes
+
+# Do not use rsyslog remote template by default.
+rsyslog_remote_template: no
